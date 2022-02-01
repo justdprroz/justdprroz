@@ -1,5 +1,7 @@
 ### Hello there
-I'm working
+🔭 I’m currently working on simple 2d game using SFML with C++
+🌱 I’m currently learning Rust programming language
+⚡ Fun fact: I am very lazy
 <!--
 **justdprroz/justdprroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
