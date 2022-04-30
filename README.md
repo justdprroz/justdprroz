@@ -8,6 +8,7 @@
 🌱 I like computer science and everything related to computers
 * At this time I am learning Rust language
 * I am a bit interested in Networking and in the ways how to build them
+* I like mechanical keyboards
 
 ⚡ Some facts about me:
 * I am very lazy
