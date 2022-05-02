@@ -16,6 +16,12 @@
 * I really enjoy listening to music
 * Also I am interested in cameras and photography
 
+### My stats
+
+[![stats](https://github-readme-stats.vercel.app/api?username=justdprroz&theme=calm&show_icons=true&count_private=true&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
+
+[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justdprroz&hide=javascript,html,css&langs_count=3&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **justdprroz/justdprroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
