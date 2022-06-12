@@ -2,7 +2,7 @@
 
 🔭 I am interested in writing code in "low" level languages like C++ and Rust
 
-* I’m currently working on simple 2d game using SFML with C++
+* I’m currently working on [simple 2d game](https://github.com/justdprroz/TwilightEscapers) using SFML with C++
 * Also I am working on [VPN management website](https://github.com/justdprroz/silaeder-vpn) with backend in rust
 
 🌱 I like computer science and everything related to computers
