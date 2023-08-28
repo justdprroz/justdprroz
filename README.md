@@ -20,11 +20,11 @@ Some facts about me:
 * I enjoy computer games because they can bring me experience that I can never achieve in my life. Some of them are: Minecraft, Terraria, Satisfactory, Red Dead Redemption 2, Cities Skylines, Civilization IV
 * I really love listening to music.
 
+<!--
 ### My stats
-
 [![stats](https://github-readme-stats.vercel.app/api?username=justdprroz&theme=calm&show_icons=true&count_private=true&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### My most used languages
 
-[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justdprroz&hide=javascript,html,css&langs_count=3&layout=compact&theme=calm&exclude_repo=silaeder-interactive-panel)](https://github.com/anuraghazra/github-readme-stats)
+[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justdprroz&hide=javascript,html,css&langs_count=3&layout=compact&theme=calm&exclude_repo=silaeder-interactive-panel)](https://github.com/anuraghazra/github-readme-stats)-->
