@@ -1,6 +1,6 @@
 ### Hello there I am Dmitri Proskuriakov commonly reffered as JustDprroz
 
-I am interested in writing code in "low" level languages like C, Rust and maybe C++
+I am interested in writing code in "low" level languages like C and Rust
 
 Projects I worked on:
 * [Simple 2d game](https://github.com/justdprroz/TwilightEscapers) with own [engine](https://github.com/justdprroz/sequoia-engine) using SFML with C++ (Orphaned because I quite lost interest for gamedev especially in C++)
